@@ -1,0 +1,257 @@
+id	ses	cs	treatment	sex	age	trial	paintol	lpaintol
+1	73.5	attender	attend	female	10.083333333	1	20.55	4.3610664888
+1	73.5	attender	attend	female	10.083333333	2	35.31	5.142004916
+1	73.5	attender	attend	female	10.083333333	3	14.29	3.8369340113
+1	73.5	attender	attend	female	10.083333333	4	11.71	3.5496691707
+3	81.5	attender	no directions	female	8.6666666667	1	12	3.5849625007
+3	81.5	attender	no directions	female	8.6666666667	2	10	3.3219280949
+3	81.5	attender	no directions	female	8.6666666667	3	12.25	3.6147098441
+3	81.5	attender	no directions	female	8.6666666667	4	8.27	3.0478873294
+5	54	attender	attend	male	10.166666667	1	24.91	4.6386531165
+5	54	attender	attend	male	10.166666667	2	23.41	4.5490530293
+5	54	attender	attend	male	10.166666667	3	31.15	4.9611602581
+5	54	attender	attend	male	10.166666667	4	31.38	4.9717734472
+8	71	attender	no directions	male	9.6666666667	1	10.12	3.3391373849
+8	71	attender	no directions	male	9.6666666667	2	11.05	3.4659744645
+8	71	attender	no directions	male	9.6666666667	3	12.15	3.6028844087
+8	71	attender	no directions	male	9.6666666667	4	13.86	3.7928553524
+9	77.5	attender	attend	female	9.1666666667	1	21.77	4.4442695024
+9	77.5	attender	attend	female	9.1666666667	2	19.03	4.2502036565
+9	77.5	attender	attend	female	9.1666666667	3	37.25	5.2191685205
+9	77.5	attender	attend	female	9.1666666667	4	30.37	4.9245750034
+12	74.7	attender	attend	male	9.75	1	27.17	4.7639426604
+12	74.7	attender	attend	male	9.75	2	26.3	4.7169908944
+12	74.7	attender	attend	male	9.75	3	22.01	4.4600872401
+12	74.7	attender	attend	male	9.75	4	28.64	4.8399595875
+15	76.7	attender	attend	female	9.6666666667	1	16.75	4.0660891905
+15	76.7	attender	attend	female	9.6666666667	2	13.47	3.7516779457
+15	76.7	attender	attend	female	9.6666666667	3	12.49	3.6427015718
+15	76.7	attender	attend	female	9.6666666667	4	15.98	3.9981955032
+18	72.7	attender	no directions	male	9.5	1	22.48	4.4905701304
+18	72.7	attender	no directions	male	9.5	2	20.03	4.324090516
+18	72.7	attender	no directions	male	9.5	3		
+18	72.7	attender	no directions	male	9.5	4	26.82	4.7452373321
+21	46.2	attender	no directions	female	10.666666667	1	240	7.9068905956
+21	46.2	attender	no directions	female	10.666666667	2	240	7.9068905956
+21	46.2	attender	no directions	female	10.666666667	3	231.71	7.8561764983
+21	46.2	attender	no directions	female	10.666666667	4	116.68	6.8664134811
+23	52.2	attender	distract	female	9.4166666667	1	30.39	4.9255247697
+23	52.2	attender	distract	female	9.4166666667	2	42.22	5.3998546736
+23	52.2	attender	distract	female	9.4166666667	3	18.72	4.2265085298
+23	52.2	attender	distract	female	9.4166666667	4	41.44	5.3729520979
+25	76.7	attender	no directions	female	8.8333333333	1	11.04	3.464668267
+25	76.7	attender	no directions	female	8.8333333333	2	6.24	2.6415460291
+25	76.7	attender	no directions	female	8.8333333333	3	9.97	3.3175935046
+25	76.7	attender	no directions	female	8.8333333333	4	7.13	2.8339020767
+26	70.5	attender	distract	female	10.166666667	1	34.15	5.0938136734
+26	70.5	attender	distract	female	10.166666667	2	18.77	4.2303567451
+26	70.5	attender	distract	female	10.166666667	3	23.34	4.5447326559
+26	70.5	attender	distract	female	10.166666667	4	20.34	4.3462477741
+27	76.3	attender	no directions	female	9.0833333333	1	15.95	3.9954845189
+27	76.3	attender	no directions	female	9.0833333333	2	9.63	3.2675357981
+27	76.3	attender	no directions	female	9.0833333333	3	16.19	4.0170310805
+27	76.3	attender	no directions	female	9.0833333333	4	15.28	3.9335726383
+28	84.3	attender	distract	male	9.6666666667	1	21.43	4.4215599449
+28	84.3	attender	distract	male	9.6666666667	2	18.13	4.18030702
+28	84.3	attender	distract	male	9.6666666667	3	13.17	3.7191834405
+28	84.3	attender	distract	male	9.6666666667	4	19.33	4.2727697324
+30	67.5	attender	distract	female	9.6666666667	1	16.89	4.078097423
+30	67.5	attender	distract	female	9.6666666667	2	11.42	3.5134907456
+30	67.5	attender	distract	female	9.6666666667	3	14.81	3.8884997355
+30	67.5	attender	distract	female	9.6666666667	4	27.44	4.7782085764
+33	75.9	attender	distract	female	9.8333333333	1	35.88	5.1651079851
+33	75.9	attender	distract	female	9.8333333333	2	53.04	5.7290088703
+33	75.9	attender	distract	female	9.8333333333	3		
+33	75.9	attender	distract	female	9.8333333333	4		
+34	81.5	attender	attend	female	9.6666666667	1	51.85	5.6962720839
+34	81.5	attender	attend	female	9.6666666667	2	30.84	4.9467308601
+34	81.5	attender	attend	female	9.6666666667	3	51.45	5.685099172
+34	81.5	attender	attend	female	9.6666666667	4	37.03	5.2106226444
+36	72.3	attender	attend	female	9.25	1	18.45	4.2055489112
+36	72.3	attender	attend	female	9.25	2	11.92	3.5753123307
+36	72.3	attender	attend	female	9.25	3	21.63	4.4349617602
+36	72.3	attender	attend	female	9.25	4	44.72	5.4828482831
+37	76.7	attender	distract	female	9.0833333333	1	9.95	3.3146965257
+37	76.7	attender	distract	female	9.0833333333	2	12.99	3.6993295257
+37	76.7	attender	distract	female	9.0833333333	3	25.02	4.6450098844
+37	76.7	attender	distract	female	9.0833333333	4	34.76	5.119356177
+38	62.5	attender	attend	female	9.5	1	27.91	4.8027102193
+38	62.5	attender	attend	female	9.5	2	23.29	4.5416387344
+38	62.5	attender	attend	female	9.5	3	22.02	4.4607425638
+38	62.5	attender	attend	female	9.5	4	20.67	4.3694664837
+40	74.7	attender	no directions	female	9.25	1	20.81	4.37920506
+40	74.7	attender	no directions	female	9.25	2	16.87	4.0763880685
+40	74.7	attender	no directions	female	9.25	3	16.83	4.0729632716
+40	74.7	attender	no directions	female	9.25	4	18.88	4.2387868596
+42	75.1	attender	distract	female	8.8333333333	1	52.58	5.7164422368
+42	75.1	attender	distract	female	8.8333333333	2		
+42	75.1	attender	distract	female	8.8333333333	3		
+42	75.1	attender	distract	female	8.8333333333	4		
+45	64.7	attender	distract	male	8.75	1	13.19	3.7213726595
+45	64.7	attender	distract	male	8.75	2	16.44	4.0391383939
+45	64.7	attender	distract	male	8.75	3	14.44	3.8519988371
+45	64.7	attender	distract	male	8.75	4	12.63	3.658782734
+49	60.4	attender	no directions	female	9.5833333333	1	32.21	5.0094367556
+49	60.4	attender	no directions	female	9.5833333333	2	33.54	5.0678107838
+49	60.4	attender	no directions	female	9.5833333333	3	19.51	4.2861418728
+49	60.4	attender	no directions	female	9.5833333333	4	22.65	4.5014391452
+50	80.3	attender	no directions	female	8.5	1	42.79	5.4192017738
+50	80.3	attender	no directions	female	8.5	2	38.85	5.2798426935
+50	80.3	attender	no directions	female	8.5	3	39.55	5.3056057896
+50	80.3	attender	no directions	female	8.5	4	48.42	5.5975311742
+51	49.4	attender	distract	male	9	1	19.69	4.2993912061
+51	49.4	attender	distract	male	9	2	13.41	3.7452373321
+51	49.4	attender	distract	male	9	3	14.55	3.862947248
+51	49.4	attender	distract	male	9	4	21.19	4.4053116826
+57	68.3	attender	attend	female	8.9166666667	1	35.07	5.1321655255
+57	68.3	attender	attend	female	8.9166666667	2	32.84	5.037382222
+57	68.3	attender	attend	female	8.9166666667	3	26.11	4.7065305525
+57	68.3	attender	attend	female	8.9166666667	4	25.21	4.6559242131
+58	51.1	attender	attend	female	8.4166666667	1	25.09	4.6490405656
+58	51.1	attender	attend	female	8.4166666667	2	30.66	4.9382857919
+58	51.1	attender	attend	female	8.4166666667	3	39.84	5.3161457423
+58	51.1	attender	attend	female	8.4166666667	4	38.47	5.2656619245
+59	62	attender	no directions	female	9.5833333333	1	21.97	4.4574629646
+59	62	attender	no directions	female	9.5833333333	2	11.19	3.4841381312
+59	62	attender	no directions	female	9.5833333333	3	15.55	3.9588426752
+59	62	attender	no directions	female	9.5833333333	4	15.51	3.9551267813
+61	77.5	attender	distract	female		1	53.27	5.7352513758
+61	77.5	attender	distract	female		2	23.18	4.5348086612
+61	77.5	attender	distract	female		3	49.28	5.6229303509
+61	77.5	attender	distract	female		4	14.16	3.8237493603
+63	84.3	attender	distract	female	9.6666666667	1	18.18	4.1842802944
+63	84.3	attender	distract	female	9.6666666667	2	27.61	4.7871189828
+63	84.3	attender	distract	female	9.6666666667	3	14.53	3.8609627979
+63	84.3	attender	distract	female	9.6666666667	4	27	4.7548875022
+64	62.7	attender	distract	female		1	30.3	4.9212458886
+64	62.7	attender	distract	female		2	16.5	4.0443941194
+64	62.7	attender	distract	female		3	32.51	5.0228116509
+64	62.7	attender	distract	female		4	11.12	3.4750848829
+2	74.7	distracter	distract	female	9.25	1	28.13	4.8140376475
+2	74.7	distracter	distract	female	9.25	2	24.22	4.5981269599
+2	74.7	distracter	distract	female	9.25	3	15.86	3.9873208659
+2	74.7	distracter	distract	female	9.25	4	20.3	4.3434078223
+4	59.5	distracter	attend	male	10.416666667	1	15.53	3.9569859246
+4	59.5	distracter	attend	male	10.416666667	2	22.68	4.5033487352
+4	59.5	distracter	attend	male	10.416666667	3		
+4	59.5	distracter	attend	male	10.416666667	4		
+6	69.7	distracter	attend	female	8.8333333333	1	109.37	6.7730732534
+6	69.7	distracter	attend	female	8.8333333333	2	85.91	6.424754167
+6	69.7	distracter	attend	female	8.8333333333	3	68.58	6.0997159992
+6	69.7	distracter	attend	female	8.8333333333	4	60.3	5.914086097
+7	75.9	distracter	no directions	male	9.5833333333	1	19.79	4.3066997073
+7	75.9	distracter	no directions	male	9.5833333333	2	18.95	4.2441259433
+7	75.9	distracter	no directions	male	9.5833333333	3	23.52	4.5558161551
+7	75.9	distracter	no directions	male	9.5833333333	4	20.35	4.3469568894
+10	68.1	distracter	distract	female	9.9166666667	1	39.51	5.3041459412
+10	68.1	distracter	distract	female	9.9166666667	2	41.2	5.3645724323
+10	68.1	distracter	distract	female	9.9166666667	3	14.51	3.8589756143
+10	68.1	distracter	distract	female	9.9166666667	4	78	6.2854022189
+11	77.5	distracter	distract	male	8.6666666667	1	13.38	3.7420062109
+11	77.5	distracter	distract	male	8.6666666667	2	11.75	3.5545888517
+11	77.5	distracter	distract	male	8.6666666667	3	10.34	3.3701642805
+11	77.5	distracter	distract	male	8.6666666667	4	13.29	3.7322691995
+13	66.7	distracter	attend	female	9.25	1	33.32	5.0583164956
+13	66.7	distracter	attend	female	9.25	2	23.93	4.5807484918
+13	66.7	distracter	attend	female	9.25	3	24.81	4.6328498301
+13	66.7	distracter	attend	female	9.25	4	20	4.3219280949
+14	76.3	distracter	no directions	female	9.0833333333	1	59.39	5.8921481275
+14	76.3	distracter	no directions	female	9.0833333333	2	41.2	5.3645724323
+14	76.3	distracter	no directions	female	9.0833333333	3	42.95	5.4245862263
+14	76.3	distracter	no directions	female	9.0833333333	4	40.78	5.3497898702
+16	67.7	distracter	no directions	female	10.25	1	35.88	5.1651079851
+16	67.7	distracter	no directions	female	10.25	2	45.41	5.5049381316
+16	67.7	distracter	no directions	female	10.25	3	34.63	5.1139504824
+16	67.7	distracter	no directions	female	10.25	4	44.31	5.4695604217
+17	63.9	distracter	distract	female	10.416666667	1	38.14	5.2532329385
+17	63.9	distracter	distract	female	10.416666667	2	41.72	5.3826672527
+17	63.9	distracter	distract	female	10.416666667	3	71.47	6.1592658832
+17	63.9	distracter	distract	female	10.416666667	4	240	7.9068905956
+19	76.3	distracter	attend	female	8.5833333333	1	17.05	4.0916998341
+19	76.3	distracter	attend	female	8.5833333333	2	17.53	4.131754091
+19	76.3	distracter	attend	female	8.5833333333	3	13.59	3.764473551
+19	76.3	distracter	attend	female	8.5833333333	4	21.73	4.4416162694
+20	66.9	distracter	no directions	male	9.1666666667	1	30.57	4.9340446471
+20	66.9	distracter	no directions	male	9.1666666667	2	20.29	4.34269696
+20	66.9	distracter	no directions	male	9.1666666667	3		
+20	66.9	distracter	no directions	male	9.1666666667	4	11.89	3.57167681
+22	80.3	distracter	no directions	female	9.75	1	39.46	5.3023190509
+22	80.3	distracter	no directions	female	9.75	2	44.16	5.464668267
+22	80.3	distracter	no directions	female	9.75	3	51.94	5.6987741089
+22	80.3	distracter	no directions	female	9.75	4	65.42	6.0316598543
+24	67.8	distracter	distract	female	9.6666666667	1	59.23	5.888256181
+24	67.8	distracter	distract	female	9.6666666667	2	44.94	5.4899282194
+24	67.8	distracter	distract	female	9.6666666667	3	46.64	5.5434958834
+24	67.8	distracter	distract	female	9.6666666667	4	35.97	5.1687222544
+29	72.3	distracter	attend	male	8.8333333333	1	21.75	4.4429434958
+29	72.3	distracter	attend	male	8.8333333333	2	10.51	3.3936907642
+29	72.3	distracter	attend	male	8.8333333333	3	17.62	4.1391420191
+29	72.3	distracter	attend	male	8.8333333333	4	22.8	4.5109619193
+31	65.5	distracter	distract	male	9.4166666667	1	240	7.9068905956
+31	65.5	distracter	distract	male	9.4166666667	2	29.51	4.8831320157
+31	65.5	distracter	distract	male	9.4166666667	3	240	7.9068905956
+31	65.5	distracter	distract	male	9.4166666667	4	63.12	5.9800253002
+32	79.1	distracter	no directions	male	9.4166666667	1	13.78	3.7845039829
+32	79.1	distracter	no directions	male	9.4166666667	2	88.89	6.4739492219
+32	79.1	distracter	no directions	male	9.4166666667	3	6.75	2.7548875022
+32	79.1	distracter	no directions	male	9.4166666667	4	6.67	2.7376867614
+35	76.7	distracter	no directions	female	8.8333333333	1	13.7	3.7761039881
+35	76.7	distracter	no directions	female	8.8333333333	2	10.12	3.3391373849
+35	76.7	distracter	no directions	female	8.8333333333	3	8.35	3.0617761976
+35	76.7	distracter	no directions	female	8.8333333333	4	7.62	2.9297909977
+39	76.3	distracter	attend	female	10.5	1	48.48	5.5993177937
+39	76.3	distracter	attend	female	10.5	2	49	5.6147098441
+39	76.3	distracter	attend	female	10.5	3	51.07	5.6744041539
+39	76.3	distracter	attend	female	10.5	4	43	5.4262647547
+41	60.5	distracter	distract	male	10.333333333	1	34.65	5.1147834472
+41	60.5	distracter	distract	male	10.333333333	2	25.13	4.6513387661
+41	60.5	distracter	distract	male	10.333333333	3	22.7	4.5046203924
+41	60.5	distracter	distract	male	10.333333333	4	31.04	4.9560566524
+43	69.8	distracter	no directions	male	8.75	1	32.73	5.0325416973
+43	69.8	distracter	no directions	male	8.75	2	38.89	5.2813273297
+43	69.8	distracter	no directions	male	8.75	3	36.75	5.1996723448
+43	69.8	distracter	no directions	male	8.75	4	20.9	4.3854310372
+44	77.5	distracter	no directions	female	9.1666666667	1		
+44	77.5	distracter	no directions	female	9.1666666667	2	16.75	4.0660891905
+44	77.5	distracter	no directions	female	9.1666666667	3		
+44	77.5	distracter	no directions	female	9.1666666667	4	14.66	3.8738131984
+46	75.5	distracter	distract	male	10.25	1	20.58	4.3631710771
+46	75.5	distracter	distract	male	10.25	2	29.35	4.8752885982
+46	75.5	distracter	distract	male	10.25	3	24.83	4.6340123564
+46	75.5	distracter	distract	male	10.25	4	55.27	5.7884247074
+47	64.8	distracter	attend	male	8.75	1	17.59	4.1366835777
+47	64.8	distracter	attend	male	8.75	2	12.42	3.6345932684
+47	64.8	distracter	attend	male	8.75	3	11.12	3.4750848829
+47	64.8	distracter	attend	male	8.75	4	8.06	3.0107798388
+48	77.5	distracter	attend	male	9.25	1	20.53	4.3596617223
+48	77.5	distracter	attend	male	9.25	2	12.58	3.6530600171
+48	77.5	distracter	attend	male	9.25	3	17.17	4.1018181342
+48	77.5	distracter	attend	male	9.25	4	15.63	3.9662458732
+52	73.1	distracter	distract	male	9.8333333333	1	71.57	6.1612830745
+52	73.1	distracter	distract	male	9.8333333333	2	42.58	5.4121040447
+52	73.1	distracter	distract	male	9.8333333333	3	107.27	6.7451028465
+52	73.1	distracter	distract	male	9.8333333333	4	48.94	5.6129421963
+53	66.9	distracter	attend	male	9.5833333333	1	116.49	6.8640623029
+53	66.9	distracter	attend	male	9.5833333333	2	52.01	5.7007171328
+53	66.9	distracter	attend	male	9.5833333333	3	26.06	4.7037651788
+53	66.9	distracter	attend	male	9.5833333333	4	20.16	4.3334237337
+54	63.9	distracter	attend	female	9.9166666667	1	37.18	5.2164548651
+54	63.9	distracter	attend	female	9.9166666667	2	14.47	3.8549930168
+54	63.9	distracter	attend	female	9.9166666667	3	21.96	4.4568061492
+54	63.9	distracter	attend	female	9.9166666667	4	14.53	3.8609627979
+55	70.2	distracter	no directions	male	9.9166666667	1	16.85	4.0746766863
+55	70.2	distracter	no directions	male	9.9166666667	2	24.51	4.6152985791
+55	70.2	distracter	no directions	male	9.9166666667	3	16.93	4.0815100681
+55	70.2	distracter	no directions	male	9.9166666667	4	12.19	3.6076262208
+56	68.5	distracter	distract	female	8.8333333333	1	240	7.9068905956
+56	68.5	distracter	distract	female	8.8333333333	2	240	7.9068905956
+56	68.5	distracter	distract	female	8.8333333333	3	240	7.9068905956
+56	68.5	distracter	distract	female	8.8333333333	4	240	7.9068905956
+60	62.8	distracter	attend	male	9.1666666667	1	48.48	5.5993177937
+60	62.8	distracter	attend	male	9.1666666667	2	240	7.9068905956
+60	62.8	distracter	attend	male	9.1666666667	3	240	7.9068905956
+60	62.8	distracter	attend	male	9.1666666667	4	104.5	6.7073591321
+62	60.4	distracter	distract	female		1	21.63	4.4349617602
+62	60.4	distracter	distract	female		2	36.43	5.18705509
+62	60.4	distracter	distract	female		3	39.65	5.3092489608
+62	60.4	distracter	distract	female		4	180.19	7.4933751379
